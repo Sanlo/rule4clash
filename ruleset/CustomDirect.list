@@ -1,6 +1,7 @@
 ﻿# Direct Connection 
 DOMAIN-SUFFIX,microsoft.com,DIRECT
 DOMAIN-SUFFIX,litmos.com,DIRECT
+DOMAIN-SUFFIX,cloudfront.net,DIRECT
 DOMAIN-SUFFIX,office.net,DIRECT
 DOMAIN-SUFFIX,office.com,DIRECT
 DOMAIN-SUFFIX,microsoftonline.com,DIRECT
