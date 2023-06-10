@@ -1,6 +1,6 @@
 ﻿# Direct Connection 
-
 DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,litmos.com,DIRECT
 DOMAIN-SUFFIX,office.net,DIRECT
 DOMAIN-SUFFIX,office.com,DIRECT
 DOMAIN-SUFFIX,microsoftonline.com,DIRECT
@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,officeapps.live.com,DIRECT
 DOMAIN-SUFFIX,steamstatic.com,DIRECT
 DOMAIN-SUFFIX,stackoverflow.com,DIRECT
 DOMAIN-SUFFIX,dell.com,DIRECT
+PROCESS-NAME,WebTorrent.exe,DIRECT
