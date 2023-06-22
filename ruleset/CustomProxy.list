@@ -1,1 +1,4 @@
 ﻿# Proxy Connection 
+
+DOMAIN-SUFFIX,missav.com,PROXY
+DOMAIN-SUFFIX,akamai-content-network.com,PROXY
