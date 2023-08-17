@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,steamstatic.com,DIRECT
 DOMAIN-SUFFIX,stackoverflow.com,DIRECT
 DOMAIN-SUFFIX,dell.com,DIRECT
 PROCESS-NAME,WebTorrent.exe,DIRECT
+PROCESS-NAME,spotify.exe,DIRECT
