@@ -590,9 +590,7 @@ DOMAIN-SUFFIX,partnerportal.spotify.com
 DOMAIN-SUFFIX,partners.spotify.com 
 DOMAIN-SUFFIX,partners.wg.spotify.com 
 DOMAIN-SUFFIX,payment-callback.spotify.com
-DOMAIN-SUFFIX,payment-callback.spotify.com 
-DOMAIN-SUFFIX,pci.spotify.com
-DOMAIN-SUFFIX,pci.spotify.com 
+DOMAIN-SUFFIX,payment-callback.spotify.com
 DOMAIN-SUFFIX,pixel.admobclick.com
 DOMAIN-SUFFIX,pixel.moatads.com
 DOMAIN-SUFFIX,pixel.spotify.com
@@ -1320,7 +1318,7 @@ DOMAIN-SUFFIX,log.spotify.com
 DOMAIN-SUFFIX,messenger-webview.scdn.co
 DOMAIN-SUFFIX,oktascimserver.spotify.com
 DOMAIN-SUFFIX,open.scdn.co
-DOMAIN-SUFFIX,pci.spotify.com # pay server
+DOMAIN-SUFFIX,pci.spotify.com
 DOMAIN-SUFFIX,play.spotify.edgekey.net
 DOMAIN-SUFFIX,prod.spotify.map.fastly.net
 DOMAIN-SUFFIX,prod.spotify.map.fastlylb.net
@@ -1409,8 +1407,8 @@ DOMAIN-SUFFIX,pagead.l.doubleclick.net
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,pagead46.l.doubleclick.net
 DOMAIN-SUFFIX,partner.googleadservices.com
-DOMAIN-SUFFIX,people-pa.googleapis.com # You
-DOMAIN-SUFFIX,platform-lookaside.fbsbx.com #
+DOMAIN-SUFFIX,people-pa.googleapis.com
+DOMAIN-SUFFIX,platform-lookaside.fbsbx.com
 DOMAIN-SUFFIX,r5---sn-5hnednlr.gvt1.com
 DOMAIN-SUFFIX,redirector.gvt1.com
 DOMAIN-SUFFIX,rp-lb-766892831.us-east-1.elb.
