@@ -1,7 +1,6 @@
-﻿# Proxy Connection 
-
-DOMAIN-SUFFIX,missav.com,PROXY
-DOMAIN-SUFFIX,akamai-content-network.com,PROXY
-DOMAIN-KEYWORD,ccgg,PROXY
-DOMAIN-SUFFIX,fqndygt.cn,PROXY
-DOMAIN-SUFFIX,ctext.org,PROXY
+﻿# Proxy Connection
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,akamai-content-network.com
+DOMAIN-KEYWORD,ccgg
+DOMAIN-SUFFIX,fqndygt.cn
+DOMAIN-SUFFIX,ctext.org
