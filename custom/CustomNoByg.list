@@ -1,0 +1,5 @@
+﻿# URL: https://raw.githubusercontent.com/Sanlo/rule4clash/main/custom/CustomNoByg.list
+DOMAIN-SUFFIX,chinadigitaltimes.net
+DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,yibaochina.com
