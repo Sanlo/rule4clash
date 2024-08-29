@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "litmos.com",
+        "polyworks.com",
+        "nas.sanlozoeng.v6.army"
+      ]
+    }
+  ]
+}

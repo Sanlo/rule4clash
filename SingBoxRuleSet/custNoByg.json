@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "chinadigitaltimes.net",
+        "rfi.fr",
+        "rfa.org",
+        "yibaochina.com"
+      ]
+    }
+  ]
+}

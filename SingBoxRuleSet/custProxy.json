@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "force.com",
+        "salesforce.com",
+        "bygcloud.com"
+      ]
+    }
+  ]
+}
