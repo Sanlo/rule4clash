@@ -4,8 +4,9 @@
     {
       "domain_suffix": [
         "litmos.com",
-        "polyworks.com",
-        "nas.sanlozoeng.v6.army"
+        "global.polyworks.com",
+        "nas.sanlozoeng.v6.army",
+        "datahub.sanlozhang.cloudns.ch"
       ]
     }
   ]
