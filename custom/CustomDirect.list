@@ -1,2 +1,7 @@
 ﻿# URL: https://raw.githubusercontent.com/Sanlo/rule4clash/main/custom/CustomDirect.list
+DOMAIN-SUFFIX,litmos.com
+DOMAIN-SUFFIX,global.polyworks.com
 DOMAIN-SUFFIX,nas.sanlozoeng.v6.army
+DOMAIN-SUFFIX,dataloop.us.kg
+DOMAIN-SUFFIX,datahub.sanlozhang.cloudns.ch
+DOMAIN-SUFFIX,qt.io
