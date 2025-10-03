@@ -1,5 +1,4 @@
-﻿# URL: https://raw.githubusercontent.com/Sanlo/rule4clash/main/custom/CustomProxy.list
-DOMAIN-SUFFIX,ctext.org
+﻿DOMAIN-SUFFIX,ctext.org
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,force.com
