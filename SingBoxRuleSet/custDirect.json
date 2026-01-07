@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {
       "domain_suffix": [
@@ -10,8 +10,6 @@
         "datahub.sanlozhang.cloudns.ch",
         "sanlo.dpdns.org",
         "qt.io",
-        "force.com",
-        "salesforce.com",
         "bygcloud.com",
         "downloads.polyworks.com"
       ]

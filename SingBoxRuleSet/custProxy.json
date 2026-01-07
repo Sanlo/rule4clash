@@ -1,9 +1,11 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {      
       "domain_suffix": [
-        "missav.ws"        
+        "missav.ws",
+        "force.com",
+        "salesforce.com"
       ]
     }
   ]
