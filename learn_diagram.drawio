@@ -4,6 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-3" edge="1" parent="1" source="yvBjh0uZ6cB3dnWZ9pqH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yvBjh0uZ6cB3dnWZ9pqH-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proc1" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Proc4" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-9" edge="1" parent="1" source="yvBjh0uZ6cB3dnWZ9pqH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yvBjh0uZ6cB3dnWZ9pqH-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-7" collapsed="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;container=1;" value="Sub Proc" vertex="1">
+          <mxGeometry height="70" width="180" x="414" y="95" as="geometry">
+            <mxRectangle height="100" width="360" x="330" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-2" parent="yvBjh0uZ6cB3dnWZ9pqH-7" style="whiteSpace=wrap;html=1;rounded=1;" value="Proc2" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-4" parent="yvBjh0uZ6cB3dnWZ9pqH-7" style="whiteSpace=wrap;html=1;rounded=1;" value="Proc3" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yvBjh0uZ6cB3dnWZ9pqH-5" edge="1" parent="yvBjh0uZ6cB3dnWZ9pqH-7" source="yvBjh0uZ6cB3dnWZ9pqH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yvBjh0uZ6cB3dnWZ9pqH-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
