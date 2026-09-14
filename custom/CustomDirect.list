@@ -1,10 +1,19 @@
-+.litmos.com
-+.global.polyworks.com
+# private domain
 +.nas.sanlozoeng.v6.army
 +.sanlo.dpdns.org
 +.dataloop.us.kg
 +.datahub.sanlozhang.cloudns.ch
+
+# Development
 +.qt.io
-+.polyworks.com.cn
++.ubuntu.com
+
+# AI Model Opensource
 +.hf-mirror.com
 +.hf.co
+
+# PolyWorks 
++.global.polyworks.com
++.downloads.polyworks.com
++.litmos.com
++.polyworks.com.cn
